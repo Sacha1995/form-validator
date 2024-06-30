@@ -1,4 +1,8 @@
+![Assignments - Copy](https://github.com/Sacha1995/form-validator/assets/169173663/57b688e8-023f-43f2-9878-09b618534c5f)
+[Redux Toolkit Shop]( https://github.com/Sacha1995/redux-toolbox-shop) | [Disney Classics Game]( https://github.com/Sacha1995/disney) | [Simpsons Quotes]( https://github.com/Sacha1995/simpsons) | [Weather Website]( https://github.com/Sacha1995/Weather-Website) | [Traffic Light]( https://github.com/Sacha1995/traffic-light) | [Homage Piece]( https://github.com/Sacha1995/thirdspacelearning)
+
 # Form Creation & Validation
+[Website](https://formvalidatorjoi.netlify.app/ )
 
 In this assignment I was tasked with creating a new form with react and implementing validation with Joi. This project uses react state to map the data inside the form to the state and implements a custom function to handle validation with Joi.
 
