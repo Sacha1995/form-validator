@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Form Creation & Validation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this assignment I was tasked with creating a new form with react and implementing validation with Joi. This project uses react state to map the data inside the form to the state and implements a custom function to handle validation with Joi.
+
+![image](https://github.com/Sacha1995/form-validator/assets/169173663/aafd0bd6-bc13-4711-9163-6cc26610c6fe)
+![image](https://github.com/Sacha1995/form-validator/assets/169173663/3a8c6935-1e14-4618-b944-2198c9f3dd9d)
+
 
 ## Available Scripts
 
