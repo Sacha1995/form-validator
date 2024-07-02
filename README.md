@@ -2,7 +2,7 @@
 [Redux Toolkit Shop]( https://github.com/Sacha1995/redux-toolbox-shop) | [Disney Classics Game]( https://github.com/Sacha1995/disney) | [Simpsons Quotes]( https://github.com/Sacha1995/simpsons) | [Weather Website]( https://github.com/Sacha1995/Weather-Website) | [Traffic Light]( https://github.com/Sacha1995/traffic-light) | [Homage Piece]( https://github.com/Sacha1995/thirdspacelearning)
 
 # Form Creation & Validation
-[Website](https://formvalidatorjoi.netlify.app/ )
+[Project website](https://formvalidatorjoi.netlify.app/ ) | [LinkedIn](https://www.linkedin.com/in/sachauijlen/)
 
 In this assignment I was tasked with creating a new form with react and implementing validation with Joi. This project uses react state to map the data inside the form to the state and implements a custom function to handle validation with Joi.
 
